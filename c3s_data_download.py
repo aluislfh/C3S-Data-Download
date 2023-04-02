@@ -11,7 +11,7 @@ def main():
 
     #--------------
 
-    models = ['cmcc','dwd','eccc','ecmwf','meteofrance','ukmo','ncep','jma']
+    models = ['cmcc','dwd','eccc','ecmwf','meteo_france','ukmo','ncep','jma']
 
     wdir = '/home/adrian/NWP/S2S_Forecast/Data_C3S/2021'
     os.chdir(wdir)
